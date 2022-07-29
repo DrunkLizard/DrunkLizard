@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**DrunkLizard/DrunkLizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="[[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif]" align="right" width="350" height="250"> 
 
-Here are some ideas to get you started:
+##  i am just a random guy! Trying to learn new things and improve myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<font color="pink">Layer-1 Maxi :atom_symbol: </font>
+
+
+## Reach out to me
+
+<a href="[https://twitter.com/Ruesandora0](https://twitter.com/Ahmetca44340994)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
+
+
+<br />
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=DrunkLizard&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
+
+
+- 🌱 I’m currently learning **Blokchain**
+
+- 📫 How to reach me [Mail](ahmetcankorkmaz56@gmail.com)
