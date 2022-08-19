@@ -21,4 +21,4 @@ https://twitter.com/Ahmetca44340994
 
 - 🌱 I’m currently learning **Blokchain**
 
-- 📫 How to reach me [Mail][ahmetcankorkmaz56@gmail.com]
+- 📫 How to reach me ahmetcankorkmaz56@gmail.com
