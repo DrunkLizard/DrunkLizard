@@ -10,7 +10,7 @@
 ## Reach out to me
 
 <a href="[[https://twitter.com/Ahmetca44340994]]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
-https://twitter.com/Ahmetca44340994
+
 
 <br />
 
@@ -21,4 +21,4 @@ https://twitter.com/Ahmetca44340994
 
 - 🌱 I’m currently learning **Blokchain**
 
-- 📫 How to reach me ahmetcankorkmaz56@gmail.com
+- 📫 How to reach me 
