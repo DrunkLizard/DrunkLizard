@@ -7,7 +7,7 @@
 
 ## Reach out to me
 
-<a href="[[https://twitter.com/Ahmetca44340994]]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
+<a href="[[https://twitter.com/Ahmetca44340994]]" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
 
 
 <br />
