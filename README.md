@@ -4,8 +4,6 @@
 
 ##  i am just a random guy! Trying to learn new things and improve myself
 
-<font color="pink">Layer-1 Maxi :atom_symbol: </font>
-
 
 ## Reach out to me
 
